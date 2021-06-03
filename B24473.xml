@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The humble petition of the Lord Major, aldermen and Common Council of the City of London presented to the Parliament on Thursday June 2, 1659 together with the answer of the House thereunto.</title>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B24473</idno><idno type="EEBO-CITATION">10745695</idno>
+  <idno type="VID">204716</idno>
+  <idno type="EEBO-PROQUEST">2248495222</idno>
+  
+            <idno type="STC">Wing H3549</idno>
+            <idno type="OCLC">10745695</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B24473)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 204716)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1405:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The humble petition of the Lord Major, aldermen and Common Council of the City of London presented to the Parliament on Thursday June 2, 1659 together with the answer of the House thereunto.</title>
+               </titleStmt>
+               <extent>6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by D. Maxwell,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">City of London (England). --  Court of Common Council.</term>
+               <term type="corporate_name">England and Wales. --  Parliament.</term>
+               <term type="geographic_name">Great Britain --  History --  Puritan Revolution, 1642-1660 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:204716:1"/>
+            <p>The Humble PETITION OF THE Lord MAJOR, Aldermen, and Common-Council of the CITY of LONDON, Presented to the PARLIAMENT On Thursday <hi>June</hi> 2. 1659.</p>
+            <p>
+               <hi>Together with the</hi> ANSVVER Of the House thereunto.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>D. Maxwell,</hi> 1659.</p>
+         </div>
+      </front>
+      <body>
+         <div type="petition">
+            <pb facs="tcp:204716:2"/>
+            <pb n="1" facs="tcp:204716:2"/>
+            <head>To the PARLIAMENT of the Common-wealth of <hi>England.</hi>
+            </head>
+            <head type="sub">The Humble Petition and Address of the Lord Mayor, Aldermen, and Commons of the City of <hi>London,</hi> in Common-Councel as<g ref="char:EOLhyphen"/>sembled.</head>
+            <opener>Sheweth,</opener>
+            <p>THat the Almighty Power and Provi<g ref="char:EOLhyphen"/>dence of God having brought your Ho<g ref="char:EOLhyphen"/>nours once more into the exercise of the Supreme Power over these three Nati<g ref="char:EOLhyphen"/>ons; we conceive these are leading Providences, and Calls on us, to own Him and his Instruments; which we desire in all humility to do, and to fall down at the feet of that great and righteous Lord, in whose power alone it is to set up and pull down.</p>
+            <p>We are now encouraged to make our humble
+<pb n="2" facs="tcp:204716:3"/>desires in this to your Honours, not onely from the often and ancient experiences which your Honours have had of the many and free engagements of this City, and the Members thereof, in your greatest extremities, against the old, common, and con<g ref="char:EOLhyphen"/>stant Enemy, and our affections still remaining up<g ref="char:EOLhyphen"/>on the same Principles, and to the same Ends; but also from your own Declaration of the Seventh of <hi>May,</hi> 1659. wherein you have engaged, to en<g ref="char:EOLhyphen"/>deavour the asserting, establishing, and securing the Properties and Liberties of the People, both as Men and Christians; and vigorously to endea<g ref="char:EOLhyphen"/>vour the carrying on the Work of Reformation, so much desired, and so often declared for, to the end there may be a Godly Magistracy and Mini<g ref="char:EOLhyphen"/>stry upheld and maintained in these Nations, there being not any thing more dear unto us, than the maintenance of Religion in its power and purity, and our Civil Rights, and Liberties inviolably; which we verily believe God and Men expects from you, as your return to this speaking Provi<g ref="char:EOLhyphen"/>dence, that hath brought you once more together, To whom as in Duty bound we do make this our humble Address: Praying,
+<list>
+                  <item>I. <hi>That the Estates, Properties and Priviledges of all Persons and Corporations, may be inviolably pre<g ref="char:EOLhyphen"/>served to them according to Law.</hi>
+                  </item>
+                  <pb n="3" facs="tcp:204716:3"/>
+                  <item> II. <hi>That a due Regulation may be of the Lawes, and Proceedings in Courts of Justice and Equity, to prevent the great expence of time and monies that hath formerly been, to the vexation of the Peo<g ref="char:EOLhyphen"/>ple.</hi>
+                  </item>
+                  <item>III. <hi>That all Christian Endeavours may be used to re<g ref="char:EOLhyphen"/>concile all those that fear God and walk holily accor<g ref="char:EOLhyphen"/>ding to the Rule of Gods Word, that none of them be oppressed in the Exercise of their Consciences in the things of God.</hi>
+                  </item>
+                  <item>IV. <hi>That the Maintenance of Ministers, setled by Law, be continued to them, and where that affords not a comfortable subsistence, such addition may be given to a Godly, Learned, Painful Gospel preach<g ref="char:EOLhyphen"/>ing Ministry, in all Parishes and Parts of the Na<g ref="char:EOLhyphen"/>tion, as may provide for them and their fami<g ref="char:EOLhyphen"/>lies.</hi>
+                  </item>
+                  <item>V. <hi>That the Universities and Schools of Learning
+<pb n="4" facs="tcp:204716:4"/>may enjoy their Rights and your further favours, that so they may flourish in piety and Learning; And that all scandalous School-masters and Tutors may be removed, to prevent the corrupting of youth.</hi>
+                  </item>
+                  <item>VI. <hi>That the very much decaied Trade of this City and Nation may be revived, by easing the burthens that lie upon it, and putting it under good Regulation and Government; That the Seas may be so guarded, that the Trade, Treasure, and strength of the Na<g ref="char:EOLhyphen"/>tions may not so often fall into the enemies hands.</hi>
+                  </item>
+                  <item>VII. <hi>That the Militia of this City and Nation may be put into the hands of men fearing God, friends to our Common Cause, of known integrity and Interest in the respective places for which they serve; And that this Citie may new receive the favour they have for<g ref="char:EOLhyphen"/>merly had, to present the names of persons, Free<g ref="char:EOLhyphen"/>men of the same, to Your Honours Consideration, for that Trust.</hi>
+                  </item>
+                  <item>VIII. <hi>That you would so settle the Government over these three Nations, that for the form of it we may be less subject to Changes; and for the Instruments from
+<pb n="5" facs="tcp:204716:4"/>time to time intrusted with the management of it, they may be men truly fearing God, living holily, and such as have eminently shewed their love to God and his work in these Nations,</hi>
+                  </item>
+               </list>
+            </p>
+            <p>All which we humbly submit to your Great Wisdomes; and pray that God would so direct and guide your hearts in this, and whatever comes before you, That the issue of all may be his Glory, the Nations good, and your own comfort at the great day of Account.</p>
+            <closer>
+               <signed>SADLER.</signed>
+            </closer>
+         </div>
+         <div type="response_to_petition">
+            <p>The House being informed that the Sheriffs and diverse Aldermen of the City of <hi>London</hi> were at the Door, they were called in, and being come to the Barr, Sheriff <hi>Bateman</hi> told the House, That they were appointed by the Lord Major, Alder<g ref="char:EOLhyphen"/>men, and Commons of the City of <hi>London</hi> in Common-Council assembled, to present this their humble Petition and Address to the Parlia<g ref="char:EOLhyphen"/>ment of the Common-wealth of <hi>England,</hi> and
+<pb n="6" facs="tcp:204716:5"/>thereupon presented a Petition, which after the Petitioners were withdrawn, was read, and was Intituled, <hi>The humble Petition and Address of,</hi> &amp;c.</p>
+            <p>The Sheriff and Aldermen of the City of <hi>Lon<g ref="char:EOLhyphen"/>don</hi> were again called in, and Mr. Speaker gave them this Answer: Mr. Sheriff, and the rest of the Aldermen and Gentlemen of the City of <hi>Lon<g ref="char:EOLhyphen"/>don:</hi>
+            </p>
+            <p>The House, as they have receiv'd, so they have read your Petition; and find it an Address from the body of the great and antient City, and it con<g ref="char:EOLhyphen"/>taineth matters that proceed from great wisdom and judgment, and was done with great delibera<g ref="char:EOLhyphen"/>tion, and therefore deserves the better acceptanee; And they do accept of this Petition, and of your good affections and expressions therein, and have commanded me to give you thanks, both for your good expressions and affections; And Mr. Spea<g ref="char:EOLhyphen"/>ker did give them the thanks of the House accor<g ref="char:EOLhyphen"/>dingly.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
